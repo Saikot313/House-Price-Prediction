@@ -1,6 +1,6 @@
 #  House Price Prediction
 
-A machine learning project that predicts house prices based on key property features using three different ML models — Linear Regression, Random Forest, and Gradient Boosting.
+A machine learning project that predicts house prices based on key property features using three different ML models - Linear Regression, Random Forest, and Gradient Boosting.
 
 ---
 
